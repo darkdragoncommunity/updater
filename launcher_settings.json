@@ -1,0 +1,9 @@
+{
+    "patch_url": "https://your-patch-server.com",
+    "website_url": "https://your-website.com",
+    "patch_mirror_urls": [
+        "https://mirror-1.your-patch-server.com"
+    ],
+    "remote_debug_enabled": false,
+    "remote_debug_log_url": ""
+}

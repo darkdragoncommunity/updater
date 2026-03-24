@@ -1,0 +1,11 @@
+{
+  "manifest_version": "20260324000000",
+  "run_path": "system/game.exe",
+  "files": [
+    {
+      "path": "system/game.exe",
+      "size": 0,
+      "sha256": "placeholder"
+    }
+  ]
+}
